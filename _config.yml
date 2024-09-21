@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://ntgh0st.github.io"
 
 github:
-  username: ntgh0st # change to your GitHub username
+  username: NTgh0st # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: NTgh0st # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/NTgh0st
-    - https://github.com/ntgh0st
+    - https://github.com/NTgh0st
     - https://www.linkedin.com/in/muhammadou-lamin-bah-ntg/
 
 # Site Verification Settings
